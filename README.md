@@ -5,9 +5,6 @@
 
 <!-- Internal section links (anchor jumps) -->
 [![Platform](https://img.shields.io/badge/platform-Android%20%7C%20BC-blue)](#technical-architecture)
-[![Status](https://img.shields.io/badge/status-production-success)](#results-impact)
-[![License](https://img.shields.io/badge/License-Proprietary-red)](#faq)
-[![Snippets](https://img.shields.io/badge/logic-snippets-blue?logo=kotlin)](#logic-snippets)
 
 
 > 📌 **Portfolio Showcase** — This repository contains architecture documentation, system design, and business outcomes. Source code is proprietary and not included.
