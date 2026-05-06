@@ -5,6 +5,10 @@
 
 <!-- Internal section links (anchor jumps) -->
 [![Platform](https://img.shields.io/badge/platform-Android%20%7C%20BC-blue)](#technical-architecture)
+<!-- Tech Stack Badges -->
+[![Room](https://img.shields.io/badge/Room-SQLite-3DDC84?logo=android)](https://developer.android.com/training/data-storage/room)
+[![CameraX](https://img.shields.io/badge/CameraX-ML_Kit-FF6D00?logo=google)](https://developer.android.com/training/camerax)
+[![Volley](https://img.shields.io/badge/Volley-Networking-1565C0)](https://developer.android.com/training/volley)
 
 
 > 📌 **Portfolio Showcase** — This repository contains architecture documentation, system design, and business outcomes. Source code is proprietary and not included.
