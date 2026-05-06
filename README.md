@@ -2,10 +2,7 @@
 [![Kotlin](https://img.shields.io/badge/Kotlin-2.0-blue?logo=kotlin)](https://kotlinlang.org)
 [![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-1.6-green?logo=android)](https://developer.android.com/jetpack/compose)
 [![Business Central](https://img.shields.io/badge/Dynamics%20365%20BC-v24-purple?logo=microsoft)](https://learn.microsoft.com/en-us/dynamics365/business-central/)
-
-<!-- Internal section links (anchor jumps) -->
 [![Platform](https://img.shields.io/badge/platform-Android%20%7C%20BC-blue)](#technical-architecture)
-<!-- Tech Stack Badges -->
 [![Room](https://img.shields.io/badge/Room-SQLite-3DDC84?logo=android)](https://developer.android.com/training/data-storage/room)
 [![CameraX](https://img.shields.io/badge/CameraX-ML_Kit-FF6D00?logo=google)](https://developer.android.com/training/camerax)
 [![Volley](https://img.shields.io/badge/Volley-Networking-1565C0)](https://developer.android.com/training/volley)
