@@ -1,9 +1,14 @@
-![Kotlin](https://img.shields.io/badge/Kotlin-2.0-blue?logo=kotlin)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-1.6-green?logo=android)
-![Business Central](https://img.shields.io/badge/Dynamics%20365%20BC-v24-purple?logo=microsoft)
-![Platform](https://img.shields.io/badge/platform-Android%20%7C%20BC-blue)
-![Status](https://img.shields.io/badge/status-production-success)
-![License](https://img.shields.io/badge/License-Proprietary-red)
+<!-- External documentation links -->
+[![Kotlin](https://img.shields.io/badge/Kotlin-2.0-blue?logo=kotlin)](https://kotlinlang.org)
+[![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-1.6-green?logo=android)](https://developer.android.com/jetpack/compose)
+[![Business Central](https://img.shields.io/badge/Dynamics%20365%20BC-v24-purple?logo=microsoft)](https://learn.microsoft.com/en-us/dynamics365/business-central/)
+
+<!-- Internal section links (anchor jumps) -->
+[![Platform](https://img.shields.io/badge/platform-Android%20%7C%20BC-blue)](#technical-architecture)
+[![Status](https://img.shields.io/badge/status-production-success)](#results-impact)
+[![License](https://img.shields.io/badge/License-Proprietary-red)](#faq)
+[![Snippets](https://img.shields.io/badge/logic-snippets-blue?logo=kotlin)](#logic-snippets)
+
 
 > 📌 **Portfolio Showcase** — This repository contains architecture documentation, system design, and business outcomes. Source code is proprietary and not included.
 
